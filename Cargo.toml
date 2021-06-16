@@ -17,3 +17,4 @@ serde_json = "1.0"
 forest_crypto = "0.5.2"
 arrayref = "0.3.6"
 ethereum-hexutil = { package = "ethereum-hexutil", version = "0.2.3" }
+rust-crypto = { package = "rust-crypto", version = "0.2.36" } 
